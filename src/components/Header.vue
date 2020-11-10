@@ -46,11 +46,14 @@ body {
     <table style="width:7%; margin-left: auto; margin-right: auto; font-size:3vw;">
       <tr>
         <td>
-          <a href="https://www.linkedin.com/in/nicolee-brown/" target="_blank"><img src="~@/assets/linkedin.png" title="Linkedin" alt="Linkedin Link"></a>
+          <a href="https://www.linkedin.com/in/nicolee-brown/" target="_blank"><img src="~@/assets/linkedin.png" style="width:30px;height:30px" title="Linkedin" alt="Linkedin Link"></a>
         </td>
         <td>
-          <a href="mailto:nicoleeb22@gmail.com" target="_blank"><img src="~@/assets/mail.png" style="width:29px;height:29px;"></a>
+          <a href="mailto:nicoleeb22@gmail.com" target="_blank"><img src="~@/assets/mail.png" style="width:34px;height:34px;"></a>
         </td> 
+        <td>
+          <a href="https://github.com/NicoleeBrown" target="_blank"><img src="~@/assets/github.png" style="width:34px;height:34px" title="Github" alt="Linkedin Link"></a>
+        </td>
       </tr>
     </table>
   </body>
