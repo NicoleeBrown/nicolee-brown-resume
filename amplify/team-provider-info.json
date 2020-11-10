@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nicoleeresume-dev-153307-authRole",
+      "UnauthRoleArn": "arn:aws:iam::516306488012:role/amplify-nicoleeresume-dev-153307-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::516306488012:role/amplify-nicoleeresume-dev-153307-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nicoleeresume-dev-153307-deployment",
+      "UnauthRoleName": "amplify-nicoleeresume-dev-153307-unauthRole",
+      "StackName": "amplify-nicoleeresume-dev-153307",
+      "StackId": "arn:aws:cloudformation:us-east-1:516306488012:stack/amplify-nicoleeresume-dev-153307/c9e75730-f9e5-11ea-b607-0eb5b83f8639",
+      "AmplifyAppId": "d1ycy0n8mcrkza"
+    },
+    "categories": {
+      "auth": {
+        "nicoleeresumedbf69db8": {}
+      }
+    }
+  }
+}
