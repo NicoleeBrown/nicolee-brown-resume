@@ -7,9 +7,7 @@
 
 <h3><font size="5">Summary</font></h3>
     <p>
-      Class of 2020 Computer Scientist Graduate with experiences in Software and Web Development.
-      Experienced in code development, testing, debugging, interface design, CSS markup, and HTML coding.
-      Currently enrolled in AWS Certified Solutions Architect Associate Course, and I am eager to learn new technologies.
+      Class of 2020 Computer Science Graduate specializing in Software Engineering Applications and Web Development.
     </p>
 
 </body>

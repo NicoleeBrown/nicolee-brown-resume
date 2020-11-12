@@ -7,8 +7,10 @@
 
     <h3><font size="5">Key Skills</font></h3>
     <p>
-     • Python • C++ • Java • Vue.JS • Web Development
-     <br> • Amazon Web Services (AWS) • HTML/CSS • Microsoft Office    
+     • Python • C++ • Java • Javascript • Vue.js • Web Development
+     <br> • Amazon Web Services (AWS) • HTML • CSS 
+     <br> • Adobe Suite • Microsoft Office Suite • Node.js
+     <br> • Agile Planning • Git • Jira • Confluence •
       </p>
     <br>
     <a href="#app">Back to Top</a> 
